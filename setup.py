@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-  name="esmac_diags_demo",
+  name="esmac_diags",
   version = "1.0.0a",
   license="BSD",
   packages=find_packages(
