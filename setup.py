@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
-setuptools.setup(
+
+setup(
   name="esmac_diags_demo",
   version = "1.0.0a",
   license="BSD",
