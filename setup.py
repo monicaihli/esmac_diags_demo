@@ -1,4 +1,4 @@
-import setuptools
+from setuptools import setup, find_packages
 setuptools.setup(
   name="esmac_diags_demo",
   version = "1.0.0a",
